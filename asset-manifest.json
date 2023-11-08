@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testimonios/static/css/main.b2fe45f7.css",
+    "main.js": "/testimonios/static/js/main.367abd02.js",
+    "static/media/testimonio-simone.jpg": "/testimonios/static/media/testimonio-simone.e6893b21d5ebdfea08e8.jpg",
+    "static/media/testimonio-luismiguel.jpg": "/testimonios/static/media/testimonio-luismiguel.5cb958d1a8d497c34763.jpg",
+    "static/media/logo.svg": "/testimonios/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testimonios/index.html",
+    "main.b2fe45f7.css.map": "/testimonios/static/css/main.b2fe45f7.css.map",
+    "main.367abd02.js.map": "/testimonios/static/js/main.367abd02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fe45f7.css",
+    "static/js/main.367abd02.js"
+  ]
+}
